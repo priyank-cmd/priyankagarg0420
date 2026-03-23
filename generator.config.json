@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-03-23T12:37:28.829Z",
+  "companyFeatures": [
+    "chat",
+    "srs"
+  ],
+  "companyWebsiteUrl": "https://www.apple.com/in/",
+  "companyName": "priyankagarg0420",
+  "companyLogoUrl": "/brand-logo.svg",
+  "companyOtherUrls": [
+    "https://www.apple.com/in/"
+  ],
+  "mode": "full-app-mirror",
+  "description": "Full workspace snapshot: real server.js, orchestration/, React src/, RAG. Same behavior as source after npm install --legacy-peer-deps."
+}
